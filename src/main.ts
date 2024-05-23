@@ -1,5 +1,5 @@
-// import axios, { AxiosError, AxiosResponse } from "axios";
-import axios from 'axios';
+import axios from "axios";
+// import axios from "axios";
 interface ImageUrls {
   raw: string;
   full: string;
