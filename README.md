@@ -1,1 +1,1 @@
-# Image-search-gallery---Typescript
+# Image-search-gallery
